@@ -1,1 +1,1 @@
-print("Desenvolupant nova feature")
+print("Login finalitzat")
